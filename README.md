@@ -1,4 +1,4 @@
-# Project Title
+# Gold Prediction Project
 
 This project is about predicting gold prices using a LSTM model. The model is trained on historical gold price data.
 
