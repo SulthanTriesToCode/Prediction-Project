@@ -1,6 +1,6 @@
 # Gold Prediction Project
 
-This project is about predicting gold prices using a LSTM model. The model is trained on historical gold price data. The model used in this project is defined in the [gold.ipynb] file.
+This project is about predicting gold prices using a LSTM model. The model is trained on historical gold price data. The model used in this project is defined in the [gold_prediction_year.ipynb](gold_prediction_year.ipynb), [gold_prediction_code.ipynb](gold_prediction_code.ipynb), and [gold_prediction_plot.ipynb](gold_prediction_plot.ipynb) files.
 
 ## Data
 
